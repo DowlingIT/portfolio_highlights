@@ -17,7 +17,10 @@ The results were dramatic:
 
 By democratizing access to operational data beyond DevOps—giving visibility to quality, business, and support teams—we shifted from reactive firefighting to strategic, data-driven operations management.
 
-[IIS monitoring example](../assets/iis-monitor.jpg "IIS monitoring example")
-[Linux monitoring example](../assets/linux_monitor.jpg "Linux monitoring example")
-[SQL Server monitoring example](../assets//sql-monitor.jpg "SQL Server monitoring example")
-["SQL Server monitoring example"](../assets/windows-monitor.jpg "SQL Server monitoring example")
+![IIS monitoring example](../assets/iis-monitor.jpg "IIS monitoring example")
+
+![Linux monitoring example](../assets/linux_monitor.jpg "Linux monitoring example")
+
+![SQL Server monitoring example](../assets//sql-monitor.jpg "SQL Server monitoring example")
+
+!["SQL Server monitoring example"](../assets/windows-monitor.jpg "SQL Server monitoring example")
