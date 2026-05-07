@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="O-yMhf5lM2-qAElWZDyO">
+    <mxGraphModel dx="1308" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-10" edge="1" parent="1" source="5TkRES5PL4qcDbQmRcgR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="5TkRES5PL4qcDbQmRcgR-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="140" />
+              <mxPoint x="700" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sql Server A" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-11" edge="1" parent="1" source="5TkRES5PL4qcDbQmRcgR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sql Server B" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-12" edge="1" parent="1" source="5TkRES5PL4qcDbQmRcgR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="340" />
+              <mxPoint x="700" y="240" />
+            </Array>
+            <mxPoint x="640" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sql Server N" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-9" edge="1" parent="1" source="5TkRES5PL4qcDbQmRcgR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5TkRES5PL4qcDbQmRcgR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Node-Red Flows" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Monitoring&lt;div&gt;UI Web App&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-8" edge="1" parent="1" source="5TkRES5PL4qcDbQmRcgR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="5TkRES5PL4qcDbQmRcgR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-16" connectable="0" parent="5TkRES5PL4qcDbQmRcgR-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Server inventory / info" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AWS EC2 API" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-14" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=14;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" value="Node-Red:&lt;br&gt;- Install monitoring tools&lt;br&gt;- Periodic polling for config" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5TkRES5PL4qcDbQmRcgR-17" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=13;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" value="Ola Hallengren tools&lt;br&gt;sp_WhoIsActive&lt;br&gt;Custom queries and jobs" vertex="1">
+          <mxGeometry height="60" width="160" x="910" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
