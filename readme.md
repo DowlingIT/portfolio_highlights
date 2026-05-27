@@ -2,8 +2,6 @@
 
 Full-stack developer and DevOps engineer with a background in laboratory science. Eighteen years building, deploying, and securing software for regulated industries — clinical labs, pharmaceutical, environmental testing, medical examiners, food safety, and more. This repository collects case studies and project highlights from that work.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/jeremy-dowling-8ab7579/) · jdowling@dowlingit.com
-
 ---
 
 ## Case Studies
