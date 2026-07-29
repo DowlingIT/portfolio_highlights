@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36">
+  <diagram name="Page-1" id="S6u1oUpLULj4C6udPxFI">
+    <mxGraphModel dx="1313" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NibDXSIXyT2woPqOs12E-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sample Prep" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hamilton Robots&lt;div&gt;(file based data exchange)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LIMS Test Batch" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LIMS Test Batch" vertex="1">
+          <mxGeometry height="60" width="100" x="320" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="File Repository" vertex="1">
+          <mxGeometry height="60" width="100" x="110" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Illumina NGS Analyzer" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hamilton Robot&lt;div&gt;(API data exchange)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Portal" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NibDXSIXyT2woPqOs12E-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SQL Server DB" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
